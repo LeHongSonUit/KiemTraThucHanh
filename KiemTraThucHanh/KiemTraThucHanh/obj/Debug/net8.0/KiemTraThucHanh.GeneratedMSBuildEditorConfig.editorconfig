@@ -17,71 +17,71 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KiemTraThucHanh
 build_property.RootNamespace = KiemTraThucHanh
-build_property.ProjectDir = D:\Bài làm các môn\LeHongSon\KiemTraThucHanh\KiemTraThucHanh\
+build_property.ProjectDir = D:\LeHongSon\KiemTraThucHanh\KiemTraThucHanh\KiemTraThucHanh\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Bài làm các môn\LeHongSon\KiemTraThucHanh\KiemTraThucHanh
+build_property.MSBuildProjectDirectory = D:\LeHongSon\KiemTraThucHanh\KiemTraThucHanh\KiemTraThucHanh
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/DanhMucSanPham.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/DanhMucSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEYW5oTXVjU2FuUGhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/DanhSachNguoiDung.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/DanhSachNguoiDung.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEYW5oU2FjaE5ndW9pRHVuZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/Index.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/SuaKhachHang.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/SuaKhachHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTdWFLaGFjaEhhbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/SuaSanPham.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/SuaSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTdWFTYW5QaGFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/ThemNguoiDungMoi.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/ThemNguoiDungMoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxUaGVtTmd1b2lEdW5nTW9pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/ThemSanPhamMoi.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Home/ThemSanPhamMoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxUaGVtU2FuUGhhbU1vaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/_Layout.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/Home/Index.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/Home/Privacy.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/Shared/Error.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/_ViewImports.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/_ViewStart.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bài làm các môn/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/Views/Shared/_Layout.cshtml]
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-33k8v797xe

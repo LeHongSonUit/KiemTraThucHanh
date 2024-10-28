@@ -8957,11 +8957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh.csproj",
+      "projectUniqueName": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh.csproj",
       "projectName": "KiemTraThucHanh",
-      "projectPath": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh.csproj",
+      "projectPath": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh.csproj",
       "packagesPath": "C:\\Users\\huylo\\.nuget\\packages\\",
-      "outputPath": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\",
+      "outputPath": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\huylo\\AppData\\Roaming\\NuGet\\NuGet.Config",

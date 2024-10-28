@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z/4QDH90F5TL7AfxVMTo9TBLgSxSCLmzTphNYF1C/GM=",
+  "Hash": "p66X6Lf2kO7mhctXbGJ+xYBZsIapUULHbMNjhhkGF2U=",
   "Source": "KiemTraThucHanh",
   "BasePath": "_content/KiemTraThucHanh",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "KiemTraThucHanh\\wwwroot",
       "Source": "KiemTraThucHanh",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\huylo\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KiemTraThucHanh.styles.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KiemTraThucHanh.styles.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "KiemTraThucHanh.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KiemTraThucHanh.styles.css"
+      "OriginalItemSpec": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KiemTraThucHanh.styles.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KiemTraThucHanh.bundle.scp.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KiemTraThucHanh.bundle.scp.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "KiemTraThucHanh.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KiemTraThucHanh.bundle.scp.css"
+      "OriginalItemSpec": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KiemTraThucHanh.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\css\\style.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\css\\style.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/css/style.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\css\\style.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\css\\style.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\css\\style.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/css/style.css.map",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\css\\style.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Bold.eot",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Bold.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Bold.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Bold.woff2",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Light.eot",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Light.ttf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Light.woff",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Light.woff2",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Medium.eot",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Medium.ttf",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Medium.woff",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Medium.woff2",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Regular.eot",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Regular.ttf",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Regular.woff",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/fonts/Ubuntu/Ubuntu-Regular.woff2",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\circle.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\circle.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/dashboard/circle.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\dashboard\\circle.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\circle.svg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\circle.svg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/dashboard/circle.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\dashboard\\circle.svg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_1.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_1.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/dashboard/img_1.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\dashboard\\img_1.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_2.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_2.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/dashboard/img_2.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\dashboard\\img_2.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_3.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_3.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/dashboard/img_3.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\dashboard\\img_3.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_4.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\dashboard\\img_4.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/dashboard/img_4.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\dashboard\\img_4.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face1.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face1.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face10.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face10.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face11.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face11.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face12.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face12.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face13.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face13.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face14.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face14.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face15.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face15.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face16.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face16.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face17.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face17.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face18.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face18.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face19.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face19.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face2.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face2.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face20.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face20.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face21.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face21.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face22.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face22.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face23.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face23.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face24.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face24.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face25.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face25.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face26.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face26.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face27.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face27.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face3.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face3.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face4.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face4.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face5.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face5.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face6.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face6.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face7.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face7.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face8.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face8.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face9.jpg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces\\face9.jpg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-1.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-1.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces-clipart/pic-1.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-1.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-2.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-2.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces-clipart/pic-2.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-2.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-3.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-3.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces-clipart/pic-3.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-3.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-4.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-4.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/faces-clipart/pic-4.png",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\faces-clipart\\pic-4.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\favicon.ico",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\favicon.ico",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/favicon.ico",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\favicon.ico"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\favicon.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\favicon.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/favicon.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\favicon.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\logo.svg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\logo.svg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/logo.svg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\logo.svg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\logo-mini.svg",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\logo-mini.svg",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\logo-mini.svg"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\blue.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\blue.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/blue.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\blue.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\dark.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\dark.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/dark.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\dark.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\flag.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\flag.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/flag.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\flag.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\green.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\green.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/green.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\green.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\jsgrid-icons.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\jsgrid-icons.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/jsgrid-icons.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\jsgrid-icons.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\red.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\red.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/red.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\red.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\yellow.png",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\images\\sprites\\yellow.png",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/images/sprites/yellow.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\images\\sprites\\yellow.png"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\chart.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\chart.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/chart.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\chart.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\dashboard.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\dashboard.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/dashboard.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\dashboard.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\file-upload.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\file-upload.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/file-upload.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\file-upload.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\hoverable-collapse.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\hoverable-collapse.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\jquery.cookie.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\jquery.cookie.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\misc.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\misc.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/misc.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\misc.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\off-canvas.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\off-canvas.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/off-canvas.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\off-canvas.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\todo.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\todo.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/todo.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\todo.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\todolist.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\js\\todolist.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/js/todolist.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\js\\todolist.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_dashboard.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_dashboard.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_dashboard.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_dashboard.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_demo.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_demo.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_demo.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_demo.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_fonts.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_fonts.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_fonts.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_footer.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_footer.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_footer.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_footer.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_functions.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_functions.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_functions.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_functions.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_layouts.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_layouts.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_layouts.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_misc.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_misc.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_misc.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_misc.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_navbar.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_navbar.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_navbar.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_reset.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_reset.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_reset.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_reset.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_sidebar.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_sidebar.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_typography.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_typography.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_typography.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_typography.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_utilities.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_utilities.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_utilities.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_variables.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_variables.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_variables.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_variables.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_vertical-wrapper.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_vertical-wrapper.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_widget-grid.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\_widget-grid.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/_widget-grid.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\_widget-grid.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_badges.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_badges.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_breadcrumbs.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_breadcrumbs.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_breadcrumbs.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_buttons.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_buttons.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_cards.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_cards.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_dropdown.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_dropdown.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_forms.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_forms.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_icons.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_icons.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_lists.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_lists.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_preview.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_preview.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_preview.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_preview.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_tables.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_tables.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_todo-list.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\components\\_todo-list.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/components/_todo-list.scss",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\components\\_todo-list.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\landing-screens\\_auth.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\landing-screens\\_auth.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_animation.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_animation.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_background.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_background.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_background.scss",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_background.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_badges.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_badges.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_breadcrumbs.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_breadcrumbs.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_buttons.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_buttons.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_cards.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_cards.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_misc.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_misc.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_pagination.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_pagination.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_popovers.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_popovers.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_popovers.scss",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_popovers.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_text.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_text.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_text.scss",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_text.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_tooltips.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\mixins\\_tooltips.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/mixins/_tooltips.scss",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\mixins\\_tooltips.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\style.scss",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\scss\\style.scss",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/scss/style.scss",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\scss\\style.scss"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\css\\vendor.bundle.base.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/css/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\css\\vendor.bundle.base.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\js\\bootstrap.min.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\js\\vendor.bundle.base.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/js/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\js\\vendor.bundle.base.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "AdminPage/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\css\\site.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\css\\site.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\favicon.ico",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\favicon.ico",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\js\\site.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\js\\site.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "KiemTraThucHanh",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bài làm các môn\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
+      "ContentRoot": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\",
       "BasePath": "_content/KiemTraThucHanh",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
