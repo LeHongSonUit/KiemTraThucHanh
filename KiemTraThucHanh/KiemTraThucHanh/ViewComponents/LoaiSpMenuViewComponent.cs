@@ -1,6 +1,5 @@
 ﻿using KiemTraThucHanh.Repository;
 using Microsoft.AspNetCore.Mvc;
-using KiemTraThucHanh.Repository;
 namespace KiemTraThucHanh.ViewComponents
 {
     public class LoaiSpMenuViewComponent : ViewComponent

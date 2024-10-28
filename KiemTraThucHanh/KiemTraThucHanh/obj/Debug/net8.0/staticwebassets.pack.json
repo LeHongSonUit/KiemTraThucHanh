@@ -513,6 +513,370 @@
       "PackagePath": "staticwebassets\\AdminPage\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\Home\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Home\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\css\\style.css",
+      "PackagePath": "staticwebassets\\Home\\css\\style.css"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\language.png",
+      "PackagePath": "staticwebassets\\Home\\img\\language.png"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Home\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\Home\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\main.js",
+      "PackagePath": "staticwebassets\\Home\\js\\main.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\Home\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\owl.carousel.min.js"
+    },
+    {
       "Id": "D:\\LeHongSon\\KiemTraThucHanh\\KiemTraThucHanh\\KiemTraThucHanh\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

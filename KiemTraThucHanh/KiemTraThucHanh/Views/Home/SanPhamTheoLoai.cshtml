@@ -5,11 +5,12 @@
 @using X.PagedList.Mvc.Core
 
 @model X.PagedList.IPagedList<TDanhMucSp>
+
 @foreach (var item in Model)
 {
-    @await Html.PartialAsync("PartialSanPham", item)
+    @await Html.PartialAsync("ParitalSanPham", item)
 
 }
 <div class="product_pagination">
-    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+    @Html.PagedListPager(Model, page => Url.Action("SanPhamTheoLoai", new { page = page, maloai = ViewBag.maloai }))
 </div>

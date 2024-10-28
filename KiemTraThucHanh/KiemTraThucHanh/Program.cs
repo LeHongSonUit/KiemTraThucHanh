@@ -1,8 +1,17 @@
+using KiemTraThucHanh.Models;
+using Microsoft.EntityFrameworkCore;
+using KiemTraThucHanh.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
+var connectionString = builder.Configuration.GetConnectionString("QlbanVaLiContext");
+builder.Services.AddDbContext<QlbanVaLiContext>(x => x.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
