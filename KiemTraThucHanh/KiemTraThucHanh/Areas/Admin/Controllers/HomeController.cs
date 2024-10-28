@@ -177,17 +177,6 @@ namespace KiemTraThucHanh.Areas.Admin.Controllers
         public IActionResult XoaKhachHang(string maKhachHang)
         {
             TempData["Message"] = "";
-            /*var chiTietSanPham = db.TChiTietSanPhams.Where(x => x.MaSp == maSanPham).ToList();
-            if (chiTietSanPham.Count > 0)
-            {
-                TempData["Message"] = "Khong xoa duoc san pham nay";
-                return RedirectToAction("DanhMucSanPham", "HomeAdmin");
-            }
-            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSanPham);
-            if (anhSanPham.Any())
-            {
-                db.RemoveRange(anhSanPham);
-            }*/
             db.Remove(db.TKhachHangs.Find(maKhachHang));
             db.SaveChanges();
             TempData["Message"] = "Da xoa khach hang nay";
