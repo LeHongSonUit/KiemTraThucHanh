@@ -1,41 +1,41 @@
-﻿@model IEnumerable<KiemTraThucHanh.Models.TKhachHang>
+﻿@using X.PagedList.Mvc.Core;
+@using KiemTraThucHanh.Models;
+@model X.PagedList.IPagedList<TKhachHang>;
 
 @{
     ViewData["Title"] = "DanhSachNguoiDung";
-    Layout = "~/Areas/Admin/Views/_Layout.cshtml";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
 }
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 <h1>DanhSachNguoiDung</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="ThemNguoiDungMoi">Create New</a>
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.TenKhachHang)
+                Tên khách hàng
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.NgaySinh)
+                Ngày sinh 
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.SoDienThoai)
+                Số điện thoại
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DiaChi)
+                Địa chỉ 
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LoaiKhachHang)
+                Loại khách hàng 
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.AnhDaiDien)
+                Ghi chú 
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.GhiChu)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UsernameNavigation)
+                UsernameNavigation
             </th>
             <th></th>
         </tr>
@@ -76,3 +76,6 @@
 }
     </tbody>
 </table>
+<div class="product_pagination">
+    @Html.PagedListPager(Model, page => Url.Action("DanhSachNguoiDung", new { page = page }))
+</div>

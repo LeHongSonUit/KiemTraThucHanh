@@ -54,8 +54,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxUaGVtU2FuUGhhbU1vaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX0xheW91dC5jc2h0bWw=
+[D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/LeHongSon/KiemTraThucHanh/KiemTraThucHanh/KiemTraThucHanh/Views/Home/ChiTietSanPham.cshtml]
